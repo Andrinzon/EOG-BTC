@@ -1,5 +1,0 @@
-requests
-python-telegram-bot
-aiohttp
-selenium
-webdriver-manage
